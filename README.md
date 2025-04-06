@@ -128,20 +128,33 @@ This will show outputs and performance comparison between the two algorithms.
 
 
 📂 Project Structure
+
 maze-quest/
-├── bfs.py           # BFS implementation and demo
-├── dfs.py           # DFS implementation and demo
-├── DFSvsDFS.py      # Final comparison file
-├── dfs.csv          # (if any helpers used)
-├── maze.py          # Maze generation and logic (PyMaze)
-└── README.md        # You're here!
+
+├── bfs.py  
+# BFS implementation and demo
+├── dfs.py    
+# DFS implementation and demo
+├── DFSvsDFS.py  
+# Final comparison file
+├── dfs.csv   
+# (if any helpers used)
+├── maze.py  
+# Maze generation and logic (PyMaze)
+└── README.md 
+# You're here!
 
 
 👩‍💻 Team Members
+
 Khushi Pardhi 
+
 Madhura Nilawar
+
 Saloni Chavhan 
+
 Vedika Welukar
+
 Anjali Sune 
 
 🙌 Thank You!
