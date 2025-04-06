@@ -80,16 +80,18 @@ Make sure you have Python installed and the required libraries (`pymaze`, `timei
 
 ### ▶️ Step-by-step:
 
-1. **Run BFS Demo**
-2. 
-   python bfsdemo.py
+ **Run BFS Demo**
+ 
+ python bfsdemo.py
    
 
 ### **Run DFS Demo**
 
 python dfsdemo.py
 
+
 ###**Run Final Comparison (BFS vs DFS)**
+
 python DFSvsDFS.py
 
 This will show outputs and performance comparison between the two algorithms.
